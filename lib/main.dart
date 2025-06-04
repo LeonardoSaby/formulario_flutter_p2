@@ -22,6 +22,11 @@ class MyApp extends StatelessWidget {
         ),
           useMaterial3:true
       ),
+      home: RegistrationFromScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
+}
+
+class RegistrationFromScreen {
 }
